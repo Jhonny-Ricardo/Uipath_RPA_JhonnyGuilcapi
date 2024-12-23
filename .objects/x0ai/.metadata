@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Servicios en Línea",
+  "Type": "App",
+  "Id": "x0aib5Lu2ESng0CUbtja6Q",
+  "Reference": "KlbotD9dK0yN7QHQ0644sg/x0aib5Lu2ESng0CUbtja6Q",
+  "Created": "2024-12-21T20:50:37.556395Z",
+  "Updated": "2024-12-21T20:50:37.556395Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Servicios en Línea",
+  "Type": "Screen",
+  "Id": "2cT-chokl02cXSDebAyZZQ",
+  "Reference": "KlbotD9dK0yN7QHQ0644sg/2cT-chokl02cXSDebAyZZQ",
+  "ParentRef": "KlbotD9dK0yN7QHQ0644sg/jXuwWigZp0WnOFr5Tqrlyw",
+  "Created": "2024-12-21T20:50:37.6169884Z",
+  "Updated": "2024-12-21T20:50:37.6169884Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
